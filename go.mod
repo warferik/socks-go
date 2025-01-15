@@ -1,3 +1,3 @@
-module github.com/fangdingjun/socks-go
+module github.com/warferik/socks-go
 
 go 1.18
